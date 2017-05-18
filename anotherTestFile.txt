@@ -1,3 +1,11 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ 	CDP Automated Testing Mentoring Program
+2017-Q2
+MODULE 2.1: VERSION CONTROL WITH GIT
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 HOME TASK
 As a basis for this home task, you’ll need to create a git repository on git.epam.com / github.com. 
 1.	GIT base actions:
