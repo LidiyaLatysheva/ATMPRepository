@@ -1,8 +1,11 @@
-
-3 Third commit to master. Edit some lines.
+4 Commit to develop
 
 =======================================================
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+=======================================================
+
+3 Third commit to master. Edit some lines.
+
 =======================================================
 
 2 Second commit to master. Add some lines.

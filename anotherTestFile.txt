@@ -1,0 +1,29 @@
+HOME TASK
+As a basis for this home task, you’ll need to create a git repository on git.epam.com / github.com. 
+1.	GIT base actions:
+•	Clone remote repository using SSH keys;
+•	Create 3 commits in “master” branch;
+•	Create new “develop” branch and push 2 commits to it;
+•	Merge “develop” branch to “master” branch;
+
+2.	GIT advanced actions:
+•	Add 2 additional commits to "develop" branch, and 1 additional commit to “master”. Rebase "develop" with new commits from "master";
+•	Add 2 additional commits to “develop” branch. Cherry-pick the first commit to “master”. Revert the second commit;
+•	Together with your mentor emulate ‘merge conflict’ situation and resolve this. 
+
+Please check out the following guide about commit message naming: http://chris.beams.io/posts/git-commit/
+As the result share the link to the repo with your mentor as well as screenshot of ‘GIT repository browser’ (use gitk command to open it) and history of actions performed.
+
+
+ 
+ACCEPTANCE CRITERIA
+1.	GIT repository exists on git.epam.com or github.com;
+2.	Access is granted to a mentor and curators;
+3.	A mentee has local copy of remote repository;
+4.	There is ‘master’ branch with at least 3 commits;
+5.	There is ‘develop’ branch with at least 2 commits;
+6.	‘develop’ branch was merged into ‘master’ branch at least once. It should be visible in history and/or on ‘GIT Repository Browser’;
+7.	‘develop’ branch was rebased at least once. It should be visible in history and/or on ‘GIT Repository Browser’;
+8.	There is at least one ‘cherry-picked commit’. It should be visible in history and/or on ‘GIT Repository Browser’
+9.	There is at least one ‘reverted’ commit. It should be visible in history and/or on ‘GIT Repository Browser’;
+10.	There is at least one resolved ‘merge conflict’. It should be visible in history and/or on ‘GIT Repository Browser’
