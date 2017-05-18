@@ -1,1 +1,8 @@
+
+2 Second commit to master. Add some lines.
+
+=======================================================
+
 1 This is a test file. First commit to master branch.
+
+=======================================================
