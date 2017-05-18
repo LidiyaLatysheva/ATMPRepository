@@ -6,7 +6,8 @@ MODULE 2.1: VERSION CONTROL WITH GIT
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-HOME TASK
++++++++++ HOME TASK +++++++++ 
+
 As a basis for this home task, you’ll need to create a git repository on git.epam.com / github.com. 
 1.	GIT base actions:
 •	Clone remote repository using SSH keys;
@@ -24,7 +25,8 @@ As the result share the link to the repo with your mentor as well as screenshot 
 
 
  
-ACCEPTANCE CRITERIA
++++++++++ ACCEPTANCE CRITERIA +++++++++ 
+
 1.	GIT repository exists on git.epam.com or github.com;
 2.	Access is granted to a mentor and curators;
 3.	A mentee has local copy of remote repository;
